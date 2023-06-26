@@ -163,7 +163,7 @@ p {
     font-size: 1.6rem;
   }
   .attribution {
-    background-color: green;
+    background-color: hsl(226, 100%, 94%);
     color: gray;
     display: block;
     position: absolute;
@@ -174,7 +174,7 @@ p {
     padding: 1.5rem 0;
   }
   .attribution a {
-    color: red;
+    color: hsl(245, 75%, 52%);
     text-decoration: underline;
   }
   .card {
